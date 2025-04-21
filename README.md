@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @shetkarharshitha123
 - 👀 I’m  Passionate about Coding & Technology
 - 🌱 I’m currently learning Python Full-Stack
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me shetkarharsha49@gmail.com
 
 <!---
